@@ -19,7 +19,7 @@ resource "aws_db_instance" "coral_db" {
   password             = "SuperSecretCoralReef2024!"
   
   parameter_group_name = "default.mysql8.0"
-  skip_final_snapshot  = true
+  skip_final_snapshot  = true 
 }
 
 # Web Server with a private key in metadata (The "Fishing Net" hole)
