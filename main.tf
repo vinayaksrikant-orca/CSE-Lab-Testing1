@@ -15,7 +15,7 @@ resource "aws_db_instance" "coral_db" {
   db_name              = "marine_life_db"
   username             = "admin"
   
-  # SECRET 1: Plaintext password
+  # SECRET 1: Plaintext password 
   password             = "SuperSecretCoralReef2024!" 
   
   parameter_group_name = "default.mysql8.0"
