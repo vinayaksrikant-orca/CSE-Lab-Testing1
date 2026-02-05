@@ -16,7 +16,7 @@ resource "aws_db_instance" "coral_db" {
   username             = "admin"
   
   # SECRET 1: Plaintext password
-  password             = "SuperSecretCoralReef2024!"
+  password             = "SuperSecretCoralReef2024!" 
   
   parameter_group_name = "default.mysql8.0"
   skip_final_snapshot  = true
