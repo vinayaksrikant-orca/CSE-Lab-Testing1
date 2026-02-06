@@ -11,7 +11,7 @@ resource "aws_db_instance" "coral_db" {
   allocated_storage    = 20
   engine               = "mysql"
   engine_version       = "8.0"
-  instance_class       = "db.t3.micro"
+  instance_class       = "db.t3.micro" 
   db_name              = "marine_life_db"
   username             = "admin"
   
