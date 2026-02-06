@@ -8,7 +8,7 @@ provider "aws" {
 
 # Database configuration with embedded password
 resource "aws_db_instance" "coral_db" {
-  allocated_storage    = 20
+  allocated_storage    = 20 
   engine               = "mysql"
   engine_version       = "8.0"
   instance_class       = "db.t3.micro" 
