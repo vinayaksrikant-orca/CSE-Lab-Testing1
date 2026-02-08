@@ -13,7 +13,7 @@ GITHUB_TOKEN = "ghp_n0tARealT0k3nJustF0rScann3rT3st1ng12345"
 # 3. Stripe Secret Key (Matches Pattern: sk_live_)
 STRIPE_API_KEY = "sk_live_51P8p0mF9z9z9z9z9z9z9z9z9z9z9z9"
 
-ALGOLIA_APP_ID = "latency"
+ALGOLIA_APP_ID = "latncy"
 ALGOLIA_ADMIN_API_KEY = "d1d2d3d4d5d6d7d8d9d0dadbdcdddedf"
 
 # 4. Google Cloud Service Account Key (High Entropy JSON)
