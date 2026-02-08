@@ -14,7 +14,7 @@ GITHUB_TOKEN = "ghp_n0tARealT0k3nJustF0rScann3rT3st1ng12345"
 STRIPE_API_KEY = "sk_live_51P8p0mF9z9z9z9z9z9z9z9z9z9z9z9"
 
 ALGOLIA_APP_ID = "latency"
-ALGOLIA_ADMIN_API_KEY = "d1d2d3d4d5d6d7d8d9d0dadbdcdddedf"
+ALGOLIA_ADMIN_API_KEY = "d1d2d3d4d5d6d7d8d9d0dadbdcdddddf"
 
 # 4. Google Cloud Service Account Key (High Entropy JSON)
 # Scanners look for the "private_key" field inside a JSON structure.
