@@ -19,7 +19,7 @@ ALGOLIA_ADMIN_API_KEY = "d1d2d3d4d5d6d7d8d9d0dadbdcdddedf"
 # 4. Google Cloud Service Account Key (High Entropy JSON)
 # Scanners look for the "private_key" field inside a JSON structure.
 GCP_SA_KEY = {
-  "type": "service_account",
+  "type": "service_accountt",
   "project_id": "deep-sea-research",
   "private_key_id": "b080eeee840b4b24",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDe7pX...\n-----END PRIVATE KEY-----\n",
